@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6F27633E-0491-4CD6-BC86-F8A7FBC2CFDB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>IHZYTableViewCellDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>72B06EED4BE177F2B26BF1C02FABDB71A258622A</key>
+		<string>https://coding.net/woaiaudi/IHZYTableViewCell.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IHZYTableViewCellDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>72B06EED4BE177F2B26BF1C02FABDB71A258622A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://coding.net/woaiaudi/IHZYTableViewCell.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>72B06EED4BE177F2B26BF1C02FABDB71A258622A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>72B06EED4BE177F2B26BF1C02FABDB71A258622A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IHZYTableViewCellDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
